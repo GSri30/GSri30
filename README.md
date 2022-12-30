@@ -9,9 +9,8 @@
 </div>
 
 - 👨‍🎓 Computer Science student at IIIT Bangalore.
-- 🖥️ Loves to play CTFs.
-- 🖮 CP beginner.
-- 🌇 Summer intern at FOSSEE IIT Bombay.
+- 🖥️ Web3.0 and chill.
+- 🖮 Some CP.
 - 💻 Developer at Zense-IIITB.
 
 
